@@ -5,8 +5,8 @@ the aim is to make a more pleasing landing page while keeping the awesome emacs 
 
 
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot1.png?raw=true)
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot2.png?raw=true)
+![](https://github.com/hamzawinix/space-morphism-jekyll-theme/blob/master/screenshot1.png?raw=true)
+![](https://github.com/hamzawinix/space-morphism-jekyll-theme/blob/master/screenshot2.png?raw=true)
 # Site/User Settings
 
 customize your site in ``_config.yml``
