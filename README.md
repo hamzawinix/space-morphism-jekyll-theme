@@ -8,6 +8,7 @@ the aim is to make a more pleasing landing page while keeping the awesome emacs 
 ![](https://github.com/hamzawinix/space-morphism-jekyll-theme/blob/master/screenshot1.png?raw=true)
 ![](https://github.com/hamzawinix/space-morphism-jekyll-theme/blob/master/screenshot2.png?raw=true)
 ![](https://github.com/hamzawinix/space-morphism-jekyll-theme/blob/main/screenshot1.png)
+![](https://github.com/hamzawinix/space-morphism-jekyll-theme/blob/main/screenshot2.png)
 # Site/User Settings
 
 customize your site in ``_config.yml``
