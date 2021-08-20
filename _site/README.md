@@ -1,11 +1,12 @@
-# Space Jekyll
+# Space morphism jekyll theme 
 
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
+A simple Jekyll theme based on space-jekyll-template and neumorphism, its still a WIP and help is very appreciated, 
+the aim is to make a more pleasing landing page while keeping the awesome emacs like menu.
 
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
 
+![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot1.png?raw=true)
+![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot2.png?raw=true)
 # Site/User Settings
 
 customize your site in ``_config.yml``
